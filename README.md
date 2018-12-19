@@ -25,13 +25,13 @@
 
   每个服务器都有1个唯一的域名，域名由以下几部分组成：
 
-​           协议、域名、端口
+  协议、域名、端口
 
-​           如：http:www.baidu.com:80
+  如：http:www.baidu.com:80
 
-​	当域名中存在任何一部分不同时，则认为是跨域
+  当域名中存在任何一部分不同时，则认为是跨域
 
-​           如：来自[www.baodu.com](http://www.baodu.com)的页面要请求[www.google.com](http://www.google.com)的资源，就是跨域
+   如：来自[www.baodu.com](http://www.baodu.com)的页面要请求[www.google.com](http://www.google.com)的资源，就是跨域
 
 + 浏览器如何进行跨域限制
 
